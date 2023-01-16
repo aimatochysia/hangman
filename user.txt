@@ -1,0 +1,3 @@
+user#pass#800
+tes#tespass#1500
+baru#passjuga#500
